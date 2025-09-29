@@ -1,4 +1,68 @@
-body
-{
-    background-color: rgb(239, 3, 70);
+html {
+
+    background-color: white;
+    
+    
 }
+
+header li{
+    display: inline;
+}
+
+header h1,nav,form {
+   display: inline-block;
+
+}
+.Tabnav li
+{
+    display: inline-block   ;
+}
+body{
+    font-family: 'Satoshi', sans-serif;
+    font-family: work sans, sans-serif;
+background: white;
+max-width: auto;
+margin: 0;
+
+}
+
+
+header
+{
+    background-color: #F4F0F1;
+    color:#464B6B;
+}
+footer
+{
+    background-color: #02061F;
+    color:white
+}
+.product
+{
+    max-width: max-content;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+    margin: 10px;
+    text-align: left;
+    
+}
+
+.img {
+max-width: 100%;
+}
+footer ul
+{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: inline-block;
+}
+footer li
+{
+   
+    padding: 10px;
+}
+
+
+/
